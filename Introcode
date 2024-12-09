@@ -1,0 +1,14 @@
+#include <xc.h>
+
+int x=5;
+
+void main(void) {
+
+    //initialise
+    while(1)
+    {
+        x++;
+        //loop operations
+    }
+    return;
+}
